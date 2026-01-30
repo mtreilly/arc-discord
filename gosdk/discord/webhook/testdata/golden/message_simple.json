@@ -1,0 +1,17 @@
+{
+  "content": "Hello from golden test",
+  "username": "GoldenBot",
+  "avatar_url": "https://example.com/avatar.png",
+  "embeds": [
+    {
+      "title": "Golden Embed",
+      "description": "Golden embed body"
+    }
+  ],
+  "allowed_mentions": {
+    "parse": [
+      "users"
+    ]
+  },
+  "thread_name": "golden-thread"
+}
